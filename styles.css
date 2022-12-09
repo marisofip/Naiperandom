@@ -1,0 +1,33 @@
+body {background: green}
+.card {width: 125px; 
+  height: 200px;
+  background: white;
+  border-radius: 10px;
+  padding: 16px 8px;
+  margin: auto
+    
+}
+.card-head{
+  float: left;
+  position: absolute;
+  padding-left: 10px;
+  font-size: 40px;
+ 
+}
+.card-body{
+  position: relative;
+   top: 30%;
+  text-align: center;
+  font-size: 60px;
+  
+}
+
+.card-foot{
+  position: relative;
+  float: right;
+  top: 45%;
+  padding-right: 10px;
+  font-size: 40px;
+;
+  
+}
